@@ -6,24 +6,3 @@ just sum up the elements that exist, returning 0 if the array is length 0.
 sum2([1, 2, 3]) → 3
 sum2([1, 1]) → 2
 sum2([1, 1, 1, 1]) → 2
-<tbody><tr><th>Expected</th><th>Run</th><th></th><th></th></tr>
-<tr><td>has23([2, 5]) → True</td><td>True</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td>has23([4, 3]) → True</td><td>True</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td>has23([4, 5]) → False</td><td>False</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td>has23([2, 2]) → True</td><td>True</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td>has23([3, 2]) → True</td><td>True</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td>has23([3, 3]) → True</td><td>True</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td>has23([7, 7]) → False</td><td>False</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td>has23([3, 9]) → True</td><td>True</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td>has23([9, 5]) → False</td><td>False</td><td>OK</td><td class="ok"></td></tr>
-
-<tr><td><center>other tests</center></td><td></td><td>OK</td><td class="ok"></td></tr>
-</tbody>
