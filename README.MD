@@ -5,3 +5,5 @@ I use Linux CentOs 7 with virtualenv for more than 2 versions of python (2.7.9 &
 I try proceed all exercise on the http://codingbat.com/ 
 
 I selected Python section at first. After i complete all Python section, i make decision - starting or not Java section, because i have not enough skill in Java in this time.
+
+[update] 19.05.2018 - Section "List1" completed
