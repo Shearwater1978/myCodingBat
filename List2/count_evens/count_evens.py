@@ -10,6 +10,15 @@ def count_evens(nums):
     return result
 
 
+# Solution of codingbat
+#def count_evens(nums):
+#  count = 0
+#  for num in nums:
+#    if num % 2 == 0:
+#      count = count + 1
+#  return count
+
+
 # My little tests
 def main():
     count_evens([2, 1, 2, 3, 4])
