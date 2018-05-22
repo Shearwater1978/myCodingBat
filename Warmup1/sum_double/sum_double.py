@@ -3,12 +3,17 @@
 
 
 def sum_double(a, b):
-    print(a, b)
     if a != b:
         return(a+b)
     else:
        return((a+b) * 2)
 
+#Solutuion from codingbat.com
+#def sum_double(a, b):
+#  sum = a + b
+#  if a == b:
+#    sum = sum * 2
+#  return sum
 
 # My little tests
 def main():
