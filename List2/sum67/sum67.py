@@ -5,7 +5,7 @@
 def sum67(nums):
     count = 0
     summ = 0
-    for i, item in enumerate(nums):
+    for item in nums:
         if (count == 0 and item == 6) or (count == 1 and item != 7):
             count = 1
         elif count == 1 and item == 7:
