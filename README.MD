@@ -8,4 +8,4 @@ I selected Python section at first. After i complete all Python section, i make 
 
 [update] 19.05.2018 - Section "List1" completed
 
-[update] 22.05.2018 - Section "List1" completed
+[update] 22.05.2018 - Section "List2" completed
