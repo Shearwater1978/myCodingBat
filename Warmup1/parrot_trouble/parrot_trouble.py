@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
+# My solution
 def parrot_trouble(talking, hour):
     safe_hour = list(range(7,21,1))
     if safe_hour.count(hour):
@@ -12,6 +12,10 @@ def parrot_trouble(talking, hour):
         else:
             return False
 
+        
+# Solution from codingbat.com
+#def parrot_trouble(talking, hour):
+#  return (talking and (hour < 7 or hour > 20))
 
 # My little tests
 def main():
