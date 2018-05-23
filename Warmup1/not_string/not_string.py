@@ -4,7 +4,7 @@
 
 # My solution
 def not_string(str):
-    if str.find('not') == 0:
+    if str[:3] == 'not':
         pass
     else:
        str = 'not ' + str
