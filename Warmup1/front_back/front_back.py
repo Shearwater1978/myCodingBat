@@ -4,7 +4,7 @@
 
 # My solution
 def front_back(str):
-    if len(str) >= 2:
+    if len(str) > 1:
         last = str[len(str)-1]
         str = str.replace(str[len(str)-1], str[0])
         str = str.replace(str[0], last, 1)
