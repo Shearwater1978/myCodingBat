@@ -13,9 +13,9 @@ def count_code(str):
 # My little tests
 def main():
     count_code_new('codexxcode')
-#    count_code('aaacodebbb')
-#    count_code('codexxcode')
-#    count_code('cozexxcope')
+    count_code('aaacodebbb')
+    count_code('codexxcode')
+    count_code('cozexxcope')
 
 
 if __name__ == '__main__':
