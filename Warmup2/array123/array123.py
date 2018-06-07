@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 
@@ -8,9 +7,7 @@ def array123(nums):
         if num == 1 and count + 2 < len(nums):
             if nums[count+1] == 2 and nums[count+2] == 3:
                 res = True
-            else:
-                res = False
-    return (res)
+    return res
 
 # My little tests
 def main():
