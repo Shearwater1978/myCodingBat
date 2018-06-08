@@ -16,3 +16,5 @@ I selected Python section at first. After i complete all Python section, i make 
 [update] 23.05.2018 - Section "String-1" completed
 
 [update] 06.06.2018 - Section "Logic-1" completed
+
+[update] 08.06.2018 - Section "Warmup-2" completed
